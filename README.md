@@ -9,7 +9,7 @@
 Источник оффсетов для чита: https://github.com/frk1/hazedumper
 
 
-Как можно со мной связатся:
+__Как можно со мной связатся:__
 
 Discord: TheRioMiner#9902
 
