@@ -10,8 +10,11 @@
 
 
 Как можно со мной связатся:
+
 Discord: TheRioMiner#9902
+
 Steam: https://steamcommunity.com/id/kernelblackmagic/  (__на этом акке юзаю чит__)
+
 Gmail: dakada59@gmail.com
 
 
