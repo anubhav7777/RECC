@@ -1,16 +1,18 @@
 # RECC - Rio External Csgo Cheat
 
-Приватный внешний чит для Csgo.
+Приватный внешний чит для CS:GO.
 
 Он использует __драйвер__ для чтения и записи памяти, именно поэтому достигается __полная незаметность от VAC__.
 
 
 ## Важные ссылки
+Источник оффсетов для чита: https://github.com/frk1/hazedumper
+
+
 Как можно со мной связатся:
-
 Discord: TheRioMiner#9902
-
 Steam: https://steamcommunity.com/id/kernelblackmagic/  (__на этом акке юзаю чит__)
+Gmail: dakada59@gmail.com
 
 
 ## Текущие функции в чите
